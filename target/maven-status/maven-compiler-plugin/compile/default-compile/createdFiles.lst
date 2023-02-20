@@ -1,0 +1,5 @@
+com\unir\orders\OrdersApplication.class
+com\unir\orders\model\request\OrderRequest.class
+com\unir\orders\controller\OrdersController.class
+com\unir\orders\service\OrdersServiceImpl.class
+com\unir\orders\service\OrdersService.class
