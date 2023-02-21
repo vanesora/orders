@@ -1,8 +1,0 @@
-com\unir\orders\controller\OrdersController.class
-com\unir\orders\model\pojo\Product$ProductBuilder.class
-com\unir\orders\model\pojo\Product.class
-com\unir\orders\facade\ProductsFacade.class
-com\unir\orders\OrdersApplication.class
-com\unir\orders\model\request\OrderRequest.class
-com\unir\orders\service\OrdersServiceImpl.class
-com\unir\orders\service\OrdersService.class
